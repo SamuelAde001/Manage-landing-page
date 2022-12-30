@@ -1,0 +1,8 @@
+#darkcovering {
+	background: rgb(0, 0, 0);
+	background: linear-gradient(
+		0deg,
+		rgba(0, 0, 0, 0.5889706224286589) 0%,
+		rgba(0, 0, 0, 0.37608546836703427) 77%
+	);
+}
