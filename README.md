@@ -22,7 +22,7 @@ This was a great challenge and also my first full landing page Challenge I have 
 
 ### Screenshot
 
-![](images/manage landing page screenshot.JPG)
+![](./images/managelandingpagescreenshot.JPG)
 
 
 ### Links
