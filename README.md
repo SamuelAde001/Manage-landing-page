@@ -27,8 +27,8 @@ This was a great challenge and also my first full landing page Challenge I have 
 
 ### Links
 
--  Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/manage-landing-page-LIoJLSREoa)
--  Live Site URL: [Add live site URL here](https://manage-landingpage-tailwind-soloution.netlify.app/)
+-  Solution URL: [Frontend mento](https://www.frontendmentor.io/solutions/manage-landing-page-LIoJLSREoa)
+-  Live Site URL: [live site](https://manage-landingpage-tailwind-soloution.netlify.app/)
 
 ## My process
 
